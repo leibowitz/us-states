@@ -41,7 +41,7 @@
       "longitude":-75.5148
     },
     {
-      "state":"District of Columbia"
+      "state":"District of Columbia",
       "latitude":38.8974,
       "longitude":-77.0268
     },
@@ -196,7 +196,7 @@
       "longitude":-77.2640
     },
     {
-      "state":"Puerto Rico"
+      "state":"Puerto Rico",
       "latitude":18.2491,
       "longitude":-66.628
     },
